@@ -1,3 +1,4 @@
 {
-    "hello": "Hello"
+    "hello": "Hello",
+    "longtexttest": "A very long text in english, that will help us to understand few things"
 }
